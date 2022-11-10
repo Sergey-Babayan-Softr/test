@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'tees';
   constructor() {
-    var a = 5
-  } 
+    var a: number = 5
+  }
 }
